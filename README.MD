@@ -12,6 +12,8 @@
 - Unit, Integration and UI tests to achieve speed of development, parallel build and stability of the framework and client app
 - Machine learning: worked with ML team to improve accuracy of classifiers based on reviewed data
 - Swift, Java, Carthage, Cocoapods, Alamofire, CoreData, Jenkins, Buddibuild, Jira, swiftlint RxSwift, RxJava, Retrofit, Gradle, Fabric, Firebase, Docker, Apiblueprint, Mulesoft, Postman, Newman, Github, Gitflow, Realm database
+- Nominated Excellend Android app of 2017 and feature as app of the day in the App store
+![Awards](images/1tap-awards.png)
 
 ### ReceiptBank 2014/15
 
