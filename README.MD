@@ -3,13 +3,24 @@
 
 ## Work experience
 
-### 1Tap (ReceiptBank group) 2015/2018
+### [Archipro](https:archipro.co.nz)(2015/present)
+
+#### Senior full stack developer
+- Build and Mantain backend services
+- Graphql api
+- React Frontend
+- Elastic search implementation wich custom mappings, aggregates and other adavance ES functionality
+- Build pipeplines for seeding and deploying indexes and alias in a CI environment
+- SilverStripe php framework
+- Docker and AWS stack.
+
+### [1Tap](https://1tapreceipts.com) (ReceiptBank group) 2015/2018
 
 #### Senior iOS and Android developer
-- Work with backend team to develop api documentation.
 - Build framework to expose backend api to client apps using SOLID and KISS principles (iOS and android)
 - Build Client app to implement UI and UX as per designs specifications (iOS only)
 - Unit, Integration and UI tests to achieve speed of development, parallel build and stability of the framework and client app
+- Work with backend team to develop api documentation.
 - Machine learning: worked with ML team to improve accuracy of classifiers based on reviewed data
 - Swift, Java, Carthage, Cocoapods, Alamofire, CoreData, Jenkins, Buddibuild, Jira, swiftlint RxSwift, RxJava, Retrofit, Gradle, Fabric, Firebase, Docker, Apiblueprint, Mulesoft, Postman, Newman, Github, Gitflow, Realm database
 - Nominated Excellend Android app of 2017 and feature as app of the day in the App store
